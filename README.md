@@ -128,4 +128,4 @@ The pipeline answers key executive business questions directly from the Gold lay
 
 👨‍💻 Author
 Mohammed Ismail Z
-Senior Data Engineer | Cloud & Lakehouse Architecture
+Lead Data and Process Analyst
